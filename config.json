@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/ds lovers",
+    "prod_uri": "mysql://root:@localhost/ds lovers",
+    "fb_url" : "https://facebook.com/yunus.ahmed.716",
+    "insta_url" : "https://www.instagram.com/yunus.ahmed.716",
+    "git_url" : "https://github.com/YunusAhmed30",
+    "blog_name": "DS Lovers",
+    "tag_line" : "First Blog by DataScienceLover",
+    "gmail-user": "xxxxxxxxxx@gmail.com",
+    "gmail-password": "xxxxxxx",
+    "Num_of_posts": 2,
+    "login_image": "avatar.svg",
+    "admin_user": "yunus",
+    "admin_password": "FakeAdmin",
+    "upload_location": "C:\\Users\\SYED YUNUS AHMED\\PycharmProjects\\untitled\\static"
+  }
+
+
+}
